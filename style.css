@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.main-header {
+    background: url('assets/header-bg.jpg') no-repeat 0 0;
+    background-size: cover;
+    background-color: #343a40;
+    border-color: #343a40;
+}
